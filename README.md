@@ -6,10 +6,13 @@ To follow the lifecycle of creating a deep learning based algorithm for the task
 
 # Material
 
-Prerequisite:
-kaggle account
-[kaggle api] (https://medium.com/analytics-vidhya/how-to-import-kaggle-datasets-into-google-colab-fb23c1566be3)
-if you dont have the prerequisite contact @Abhijeet Parida
+## Prerequisite:
+- kaggle account
+- (kaggle api) [https://medium.com/analytics-vidhya/how-to-import-kaggle-datasets-into-google-colab-fb23c1566be3]
+- if you dont have the prerequisite contact @Abhijeet Parida
+
 
 Repo: https://github.com/a-parida12/furry-octo-spork
-Pretrained weights:
+
+
+Pretrained weights: https://github.com/a-parida12/furry-octo-spork/raw/main/solution/trained_model.h5
